@@ -1,7 +1,22 @@
 {
   "version": "1.0",
   "owner": "sabinatrela03-svg",
-  "generatedAt": "2026-11-22T20:24:09.763581Z",
-  "totalBooks": 0,
-  "books": []
+  "generatedAt": "2026-11-22T20:26:51.158734Z",
+  "totalBooks": 1,
+  "books": [
+    {
+      "id": "1fbfa041-a5b8-4008-b8fc-88c6b4051f01",
+      "title": "Psychoza",
+      "author": "Robert Bloch",
+      "languageCode": "en",
+      "publishedAt": "2011-02-16T01:00:00.000",
+      "chapterCount": 1,
+      "readingProgress": 0.0,
+      "tags": [
+        "Horror",
+        "classic"
+      ],
+      "coverImage": "covers/1fbfa041-a5b8-4008-b8fc-88c6b4051f01.jpg"
+    }
+  ]
 }
