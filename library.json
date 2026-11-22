@@ -1,9 +1,23 @@
 {
   "version": "1.0",
   "owner": "sabinatrela03-svg",
-  "generatedAt": "2026-11-22T20:26:51.158734Z",
-  "totalBooks": 1,
+  "generatedAt": "2026-11-22T20:26:54.102522Z",
+  "totalBooks": 2,
   "books": [
+    {
+      "id": "a23ea0c7-cdab-42dd-8410-364e08e2aa24",
+      "title": "451 Fahrenheita",
+      "author": "Ray Bradbury",
+      "languageCode": "pl",
+      "description": "Po niebie latają odrzutowce z głowicami atomowymi, ludzie spędzają czas przed telewizyjnymi ścianami, a strażacy zamiast gasić wzniecają pożary. Najchętniej palą książki, do tego są zostali powołani. 451 stopni Fahrenheita to temperatura, w której zaczyna palić się papier. Najsłynniejsza powieść Raya Bradbury'ego, pięćdziesiąt pięć lat od pierwszego wydania, wciąż szokuje i wzbudza pozytywne emocje. Kiedyś odbierana jako głos przeciwko totalitaryzmowi, teraz ukazuje drugie dno i zmusza do namysłu nad losem cywilizacji. Świat wyzbyty \"wysokiej kultury\", zdominowany przez opery mydlane, historyjki obrazkowe, tanią rozrywkę dla mas. Nie ma w nim miejsca na rozmowę, miłość, szczęście. Zastępują ją dragi, ogłupiająca telewizja, przemoc, samotność w tłumie. Wizja Bradbury'ego, szokująca przed półwieczem, dzisiaj także budzi dreszcz realnego przerażenia oto na własne oczy widzimy, jak futurystyczne i groźne założenia autora stają się rzeczywistością. Dobrowolne odrzucenie dorobku kultury, schedy po pokoleniach przodków szokuje, ale przykład strażaka Guya Montaga pokazuje, że nie jest łatwo zabić człowieczeństwo, a to co dobre, zawsze w człowieku na wierzch wypłynie. Raymond Douglas Bradbury (ur. 1920) jeden z najwybitniejszych amerykańskich twórców fantastyki. Pochodzi z rodziny wydawców prasowych, we wczesnej młodości zetknął się z magazynami pulpowymi i SF. Jako 19-latek zaczął wydawać fanzin i publikować pierwsze opowiadania. Pierwsza jego książka Dark Carnival, została wydana w 1947. Trzy lata później ukazał się zbiór Kronik marsjańskich, a rok potem Człowiek ilustrowany, obie przyniosły mu wielką sławę. W 1953 roku ukazała się jego najsłynniejsza powieść 451 stopni Fahrenheita, sfilmowana w 1966 przez François Truffauta. Na podstawie opowiadań nakręcono miniseriale, tworzono komiksy. Ray Bradbury pisze książki do dzisiaj. Za całokształt twórczości otrzymał World Fantasy Award i nagrodę Brama Stokera.",
+      "publishedAt": "2010-12-14T01:00:00.000",
+      "chapterCount": 1,
+      "readingProgress": 0.0,
+      "tags": [
+        "Classic"
+      ],
+      "coverImage": "covers/a23ea0c7-cdab-42dd-8410-364e08e2aa24.jpg"
+    },
     {
       "id": "1fbfa041-a5b8-4008-b8fc-88c6b4051f01",
       "title": "Psychoza",

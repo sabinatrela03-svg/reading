@@ -16,7 +16,7 @@ A personal reading portfolio and bookshelf powered and synchronized by [EpubTidy
 
 ## 📊 Reading Statistics
 
-- **Total Books**: 1
+- **Total Books**: 2
 - **Currently Reading**: 0
 - **Completed**: 0
 
