@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "sabinatrela03-svg",
-  "generatedAt": "2026-11-22T20:27:08.898425Z",
-  "totalBooks": 3,
+  "generatedAt": "2026-11-22T20:27:15.419024Z",
+  "totalBooks": 4,
   "books": [
     {
       "id": "a23ea0c7-cdab-42dd-8410-364e08e2aa24",
@@ -30,6 +30,19 @@
         "Classic"
       ],
       "coverImage": "covers/20b3e383-177f-4f5d-8ed2-83cf141fffbe.jpg"
+    },
+    {
+      "id": "af361bd1-25a2-4b15-8c76-cd7c1af8a8c2",
+      "title": "Przeminelo z wiatrem - t.3",
+      "author": "Margaret Mitchell",
+      "languageCode": "pl",
+      "publishedAt": "0101-01-01T01:00:00.000",
+      "chapterCount": 24,
+      "readingProgress": 0.0,
+      "tags": [
+        "Classic"
+      ],
+      "coverImage": "covers/af361bd1-25a2-4b15-8c76-cd7c1af8a8c2.jpg"
     },
     {
       "id": "1fbfa041-a5b8-4008-b8fc-88c6b4051f01",
