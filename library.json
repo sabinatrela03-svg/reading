@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "sabinatrela03-svg",
-  "generatedAt": "2026-11-22T20:26:54.102522Z",
-  "totalBooks": 2,
+  "generatedAt": "2026-11-22T20:27:08.898425Z",
+  "totalBooks": 3,
   "books": [
     {
       "id": "a23ea0c7-cdab-42dd-8410-364e08e2aa24",
@@ -17,6 +17,19 @@
         "Classic"
       ],
       "coverImage": "covers/a23ea0c7-cdab-42dd-8410-364e08e2aa24.jpg"
+    },
+    {
+      "id": "20b3e383-177f-4f5d-8ed2-83cf141fffbe",
+      "title": "Przeminelo z wiatrem - t.2",
+      "author": "Margaret Mitchell",
+      "languageCode": "pl",
+      "publishedAt": "0101-01-01T01:00:00.000",
+      "chapterCount": 21,
+      "readingProgress": 0.0,
+      "tags": [
+        "Classic"
+      ],
+      "coverImage": "covers/20b3e383-177f-4f5d-8ed2-83cf141fffbe.jpg"
     },
     {
       "id": "1fbfa041-a5b8-4008-b8fc-88c6b4051f01",
