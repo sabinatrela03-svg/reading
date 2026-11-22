@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "owner": "sabinatrela03-svg",
-  "generatedAt": "2026-11-22T20:27:15.419024Z",
-  "totalBooks": 4,
+  "generatedAt": "2026-11-22T20:27:21.162264Z",
+  "totalBooks": 5,
   "books": [
     {
       "id": "a23ea0c7-cdab-42dd-8410-364e08e2aa24",
@@ -30,6 +30,20 @@
         "Classic"
       ],
       "coverImage": "covers/20b3e383-177f-4f5d-8ed2-83cf141fffbe.jpg"
+    },
+    {
+      "id": "38e4785f-c66e-4d1f-a245-c79e40b3fc9c",
+      "title": "Lokatorka Wildfell Hall",
+      "author": "Anne Brontë",
+      "publisher": "MG: 2012",
+      "languageCode": "pl",
+      "publishedAt": "2026-03-13T01:00:00.000",
+      "chapterCount": 59,
+      "readingProgress": 0.0,
+      "tags": [
+        "Classic"
+      ],
+      "coverImage": "covers/38e4785f-c66e-4d1f-a245-c79e40b3fc9c.jpg"
     },
     {
       "id": "af361bd1-25a2-4b15-8c76-cd7c1af8a8c2",
